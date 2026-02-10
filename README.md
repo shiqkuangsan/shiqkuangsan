@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+shiqkuangsan;Don't+talk+the+talk;if+you+can't+walk+the+walk." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=130&lines=Hey+%F0%9F%91%8B+I'm+shiqkuangsan;Don't+talk+the+talk;if+you+can't+walk+the+walk." alt="Typing SVG" /></a>
 
 <!-- Waving hand SVG -->
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -56,29 +56,33 @@ const shiqkuangsan = {
 #### ⚡ Frameworks & Libraries
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=41B883)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### 🎯 UI Ecosystem
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Ant Design Vue](https://img.shields.io/badge/Ant_Design_Vue-41B883?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 #### 🔧 Build & Tools
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Rspack](https://img.shields.io/badge/Rspack-F93920?style=for-the-badge&logo=rspack&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 
 #### 🖥️ Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🤖 AI
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
@@ -89,12 +93,14 @@ const shiqkuangsan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiqkuangsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=41B883&icon_color=41B883&text_color=c9d1d9&ring_color=41B883" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shiqkuangsan&theme=tokyonight&hide_border=true&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883&sideLabels=41B883" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiqkuangsan&theme=github_dark" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiqkuangsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=41B883&text_color=c9d1d9&langs_count=8" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiqkuangsan&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiqkuangsan&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiqkuangsan&theme=github_dark&utcOffset=8" />
 
 </div>
 
@@ -121,28 +127,6 @@ const shiqkuangsan = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiqkuangsan/shiqkuangsan/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/shiqkuangsan/shiqkuangsan/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<!-- Featured Projects -->
-## 🏆 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/antdv-next/antdv-next">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=antdv-next&repo=antdv-next&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=41B883&icon_color=41B883&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/shiqkuangsan/ccpilot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shiqkuangsan&repo=ccpilot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=41B883&icon_color=41B883&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/shiqkuangsan/oh-my-daily-skills">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shiqkuangsan&repo=oh-my-daily-skills&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=41B883&icon_color=41B883&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/shiqkuangsan/Macbook-Landing-Page">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shiqkuangsan&repo=Macbook-Landing-Page&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=41B883&icon_color=41B883&text_color=c9d1d9" />
-</a>
 
 </div>
 
