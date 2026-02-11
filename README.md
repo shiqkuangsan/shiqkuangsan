@@ -88,35 +88,6 @@ const shiqkuangsan = {
 
 ---
 
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shiqkuangsan&theme=tokyonight&hide_border=true&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883&sideLabels=41B883" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiqkuangsan&theme=github_dark" />
-
-<br/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiqkuangsan&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiqkuangsan&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiqkuangsan&theme=github_dark&utcOffset=8" />
-
-</div>
-
----
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiqkuangsan&bg_color=0D1117&color=41B883&line=41B883&point=FFFFFF&area=true&area_color=41B883&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/shiqkuangsan)
-
-</div>
-
----
-
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
