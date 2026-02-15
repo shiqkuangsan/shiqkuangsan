@@ -20,22 +20,12 @@
 <!-- About Me -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-```typescript
-const shiqkuangsan = {
-  status: "🎯 Focusing",
-  roles: ["Frontend Engineer", "Vue Ecosystem Contributor", "Open Source Enthusiast"],
-  currentFocus: "Ant Design Vue (antdv-next)",
-  funFact: "Arctic Code Vault Contributor 🏔️",
-  motto: "Don't talk the talk if you can't walk the walk.",
-};
-```
-
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 Currently working on **[antdv-next](https://github.com/antdv-next/antdv-next)** — Ant Design for Vue
+- 🏗️ Member of **[@antdv-next](https://github.com/antdv-next)** — Building next-gen Ant Design for Vue
+- 🧩 Shipping **[unclosed](https://github.com/shiqkuangsan/unclosed)** — Chrome extension for intelligent closed-tab recovery
 - 🛠️ Building **[ccpilot](https://github.com/shiqkuangsan/ccpilot)** — A desktop app wrapped in Claude Code
 - 🧰 Maintaining **[oh-my-daily-skills](https://github.com/shiqkuangsan/oh-my-daily-skills)** — Daily-use skills for Claude Code
-- 💬 Ask me about **Vue 3, TypeScript, Ant Design, Component Library Design**
 - ⚡ Fun fact: I turn coffee into components ☕ → 🧩
 
 <br clear="both"/>
