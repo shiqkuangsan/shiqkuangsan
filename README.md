@@ -23,8 +23,9 @@
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🏗️ Member of **[@antdv-next](https://github.com/antdv-next)** — Building next-gen Ant Design for Vue
+- 📋 Building **[Recopy](https://github.com/shiqkuangsan/Recopy)** — Privacy-first clipboard history manager for desktop
+- 🛠️ Building **[ccpilot](https://github.com/shiqkuangsan/ccpilot)** — Native GUI for Claude Code configuration management
 - 🧩 Shipping **[unclosed](https://github.com/shiqkuangsan/unclosed)** — Chrome extension for intelligent closed-tab recovery
-- 🛠️ Building **[ccpilot](https://github.com/shiqkuangsan/ccpilot)** — A desktop app wrapped in Claude Code
 - 🧰 Maintaining **[oh-my-daily-skills](https://github.com/shiqkuangsan/oh-my-daily-skills)** — Daily-use skills for Claude Code
 - ⚡ Fun fact: I turn coffee into components ☕ → 🧩
 
