@@ -24,6 +24,7 @@
 
 - 🏗️ Member of **[@antdv-next](https://github.com/antdv-next)** — Building next-gen Ant Design for Vue
 - 📋 Building **[Recopy](https://github.com/shiqkuangsan/Recopy)** — Privacy-first clipboard history manager for desktop
+- 🐾 Building **[CatPaw](https://github.com/shiqkuangsan/catpaw)** — Runtime protocol for AI coding agents and project workflow artifacts
 - 🧰 Maintaining **[oh-my-daily-skills](https://github.com/shiqkuangsan/oh-my-daily-skills)** — Daily-use skills for Claude Code
 - 🧩 Shipping **[unclosed](https://github.com/shiqkuangsan/unclosed)** — Chrome extension for intelligent closed-tab recovery
 - ⚡ Fun fact: I turn coffee into components ☕ → 🧩
